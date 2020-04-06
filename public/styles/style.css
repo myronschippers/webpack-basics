@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.appBar {
+  padding: 30px 15px;
+  background-color: #224672;
+  color: #ffffff;
+  text-align: center;
+}
+
+.appBar h1 {
+  margin: 0;
+}
