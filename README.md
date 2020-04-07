@@ -262,7 +262,7 @@ Loaders are for handling other file types -- the pattern for all of them is basi
 }
 ```
 
-## Other things (if time)
+## Other things
 
 ### Plugins
 
